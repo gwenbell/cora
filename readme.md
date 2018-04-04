@@ -2,6 +2,8 @@
 
 A simple decent(ralized) question/answer application for secure-scuttlebutt
 
+![cora.png](cora.png)
+
 To get started, you'll need to git clone and...
 
 ```
