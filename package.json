@@ -1,7 +1,7 @@
 {
-  "name": "cora",
+  "name": "cora-ssb",
   "version": "1.0.0",
-  "description": "Ask questions of Cora, get answers",
+  "description": "Ask questions of Cora, get answers from the decent(ralized) Internet",
   "main": "bin.js",
   "scripts": {
     "start": "node bin server",
